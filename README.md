@@ -1,16 +1,17 @@
-### Hi there 👋
+<img src="https://github.com/canadaprogrammer/canadaprogrammer/blob/master/logo.png" alt="Jin Park Logo" width="150" height="150" align="right" />
 
-<!--
-**canadaprogrammer/canadaprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm Jungjin Park, Web Developer living in Victoria BC. </p>
 
-Here are some ideas to get you started:
+<h2>My tech stack</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/-HTML5-E44D26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-2862E9?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-D3B32C?style=plastic&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-3C1492?style=plastic&logo=php)
+![Less](https://img.shields.io/badge/-Less-182F50?style=plastic&logo=less)
+![MySQL](https://img.shields.io/badge/-MySQL-005E88?style=plastic&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/-React-000000?style=plastic&logo=react)
+![Nodejs](https://img.shields.io/badge/-Nodejs-43853D?style=plastic&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-2E0071?style=plastic&logo=csharp)
+![Python](https://img.shields.io/badge/-Python-F7CA3B?style=plastic&logo=python)
+![MongoDB](https://img.shields.io/badge/-MongoDB-f7f7f7?style=plastic&logo=mongodb)
