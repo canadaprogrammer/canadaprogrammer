@@ -12,6 +12,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-005E88?style=plastic&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000000?style=plastic&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-43853D?style=plastic&logo=node.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![C#](https://img.shields.io/badge/-CSharp-2E0071?style=plastic&logo=csharp)
 ![Python](https://img.shields.io/badge/-Python-F7CA3B?style=plastic&logo=python)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-f7f7f7?style=plastic&logo=mongodb)
