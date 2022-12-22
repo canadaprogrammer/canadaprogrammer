@@ -16,3 +16,4 @@
 ![C#](https://img.shields.io/badge/-CSharp-2E0071?style=plastic&logo=csharp)
 ![Python](https://img.shields.io/badge/-Python-F7CA3B?style=plastic&logo=python)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-f7f7f7?style=plastic&logo=mongodb)
+![SwiftUI](https://img.shields.io/badge/swiftui-beta-brightgreen)
